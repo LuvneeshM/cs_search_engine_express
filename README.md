@@ -15,3 +15,6 @@ Use the follow link to generate a key to [Generate Your Own Google Search Engine
  - npm install body-parser 
  - npm install request 
  - npm install pug
+
+## Running the app
+After making your own config.js file and using your own key, run the command node app.js and visit the page http://localhost:3000/search in your browser.
